@@ -1,0 +1,14 @@
+{
+  "name": "cuprumchatbot",
+   "dependencies": {
+    "request": "2.72.0",
+    "express": "4.13.4",
+    "node-wit": "3.2.2",
+    "body-parser": "1.15.0",
+    "node-cloud-vision-api": "0.2.0",
+    "foursquarevenues": "2.0.0",
+    "node-emoji": "1.5.1"
+  },
+  "description": "Chatbot demo",
+  "main": "app.js"
+}
